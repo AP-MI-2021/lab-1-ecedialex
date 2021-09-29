@@ -17,7 +17,7 @@ Returneaza CMMDC a doua numere x si y folosind primul algoritm.
 '''
 def get_cmmdc_v1(x, y):
   # codul vostru aici
-	print('test message!')
+	print('test!')
   
   
 '''
